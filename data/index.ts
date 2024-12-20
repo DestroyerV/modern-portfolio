@@ -89,7 +89,7 @@ export const projects = [
     des: "A amazon price tracking website that also notify about prices.",
     img: "/p2.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/axios.svg", "/cheerio.svg", "/mongodb.svg"],
-    link: "https://save-some-cash.vercel.app/",
+    link: "https://savesomecash.vercel.app/",
   },
   {
     id: 3,
@@ -196,8 +196,8 @@ export const workExperience = [
   },
   {
     id: 4,
-    title: "Personal Projects",
-    desc: "Worked on many complex personal projects.",
+    title: "Google Developer Group",
+    desc: "Core member of the GDG community, organizing events and workshops.",
     className: "md:col-span-2",
     thumbnail: "/exp4.svg",
   },
